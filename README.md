@@ -44,5 +44,6 @@ Open chess.html directly in your browser.
 ---
 
 
-🙌 Credits
+## 🙌 Credits
+
 Developer: Lalit Mourya

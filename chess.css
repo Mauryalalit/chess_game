@@ -42,7 +42,7 @@ body{
 }
 
 #board .even div:nth-child(odd){
-	background: rgb(112,112,112);
+	background: rgb(112, 112, 112);
 }
 
 #board .odd div:nth-child(even){
@@ -92,14 +92,14 @@ img.piece{
 }
 .allowed{
 	opacity: .8;
-	background: radial-gradient(#333,#222 )!important;
+	background: radial-gradient(#51af67,#222 )!important;
 	border:1px solid black !important;
 }
 .last-move {
-	background: #30b030 !important;
+	background: #519951 !important;
 }
 .clicked-square{
-	background: radial-gradient(#333,#222 )!important;
+	background: radial-gradient(#10d61a,#222 )!important;
 	border:1px solid black !important;
 }
 .sematary img {
@@ -188,7 +188,7 @@ input[type="radio"] {
 	display: none;
 }
 label {
-	background-color: rgb(112,112,112);
+	background-color: rgb(5, 85, 12);
 	position: relative;
 	font-family: "Poppins", sans-serif;
 	cursor: pointer;

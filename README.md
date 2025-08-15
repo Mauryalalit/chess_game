@@ -34,13 +34,15 @@ We aim to create a platform that is both **fun for casual play** and **helpful f
 Open chess.html directly in your browser.
 (Optional: Use a local web server for best results.)
 
+---
+
 
 <img width="625" height="597" alt="Capture 1" src="https://github.com/user-attachments/assets/6698ba76-44a4-4028-90b3-094fbc586daa" />
 <img width="622" height="600" alt="Capture3" src="https://github.com/user-attachments/assets/6963fb0a-ed5f-4fef-8f4e-d86a35878445" />
 <img width="650" height="603" alt="Capture" src="https://github.com/user-attachments/assets/e5ef9db3-dd5e-4b18-a565-fc7f8e338e1d" />
 
 ---
----
+
 
 🙌 Credits
 Developer: Lalit Mourya

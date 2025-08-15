@@ -31,7 +31,7 @@ We aim to create a platform that is both **fun for casual play** and **helpful f
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/Mauryalalit/chess_game.git
-Open chess.html directly in your browser.
+Open index.html directly in your browser.
 (Optional: Use a local web server for best results.)
 
 ---

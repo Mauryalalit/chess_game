@@ -39,7 +39,8 @@ Open chess.html directly in your browser.
 <img width="622" height="600" alt="Capture3" src="https://github.com/user-attachments/assets/6963fb0a-ed5f-4fef-8f4e-d86a35878445" />
 <img width="650" height="603" alt="Capture" src="https://github.com/user-attachments/assets/e5ef9db3-dd5e-4b18-a565-fc7f8e338e1d" />
 
-
+---
+---
 
 🙌 Credits
 Developer: Lalit Mourya
